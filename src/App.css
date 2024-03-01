@@ -5,23 +5,27 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border-radius: 90%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 35s linear;
   }
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url('../src/images/particula-tecnologia-abstracta-realista-fondo_23-2148431735.avif');
+  display: flex;
+  background-size: cover;
+  /* background-color: #08348c; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(116, 176, 249);
 }
 
 .App-link {
