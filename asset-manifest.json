@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/martresa/static/css/main.09ec7f0a.css",
+    "main.js": "/martresa/static/js/main.defcabfb.js",
+    "static/js/453.1710b9a4.chunk.js": "/martresa/static/js/453.1710b9a4.chunk.js",
+    "static/media/MundoAzulUno.jpg": "/martresa/static/media/MundoAzulUno.ce4f09d72043246d6fb8.jpg",
+    "static/media/particula-tecnologia-abstracta-realista-fondo_23-2148431735.avif": "/martresa/static/media/particula-tecnologia-abstracta-realista-fondo_23-2148431735.477b1ffe25f9e38ed92d.avif",
+    "index.html": "/martresa/index.html",
+    "main.09ec7f0a.css.map": "/martresa/static/css/main.09ec7f0a.css.map",
+    "main.defcabfb.js.map": "/martresa/static/js/main.defcabfb.js.map",
+    "453.1710b9a4.chunk.js.map": "/martresa/static/js/453.1710b9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ec7f0a.css",
+    "static/js/main.defcabfb.js"
+  ]
+}
